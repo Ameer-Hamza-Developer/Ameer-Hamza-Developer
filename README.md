@@ -84,6 +84,8 @@ I help startups ship **fast, scalable iOS & Android apps**, from an empty repo t
 
 ## 🛠️ Tech stack
 
+<p align="center"><img src="assets/tech-marquee.svg" alt="Tech stack" width="100%"></p>
+
 **Mobile**<br>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
@@ -134,3 +136,7 @@ I help startups ship **fast, scalable iOS & Android apps**, from an empty repo t
 Open to **remote roles** and **freelance projects** worldwide. Have an app in mind? I usually reply within a day.
 
 📧 [ameer.hamza0070@gmail.com](mailto:ameer.hamza0070@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ameer-hamza-02a155214) &nbsp;·&nbsp; 🌐 [ameer-hamza-rn.vercel.app](https://ameer-hamza-rn.vercel.app)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0b,100:4f8cff&height=140&section=footer&animation=twinkling&text=Thanks%20for%20visiting&fontSize=22&fontColor=f5f5f7&fontAlignY=72" alt="Thanks for visiting" width="100%">
+</p>
