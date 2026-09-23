@@ -84,7 +84,7 @@ I help startups ship **fast, scalable iOS & Android apps**, from an empty repo t
 
 ## 🛠️ Tech stack
 
-<p align="center"><img src="assets/tech-marquee.svg" alt="Tech stack" width="100%"></p>
+<p align="center"><img src="assets/tech-marquee-v2.svg" alt="Tech stack" width="100%"></p>
 
 **Mobile**<br>
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
