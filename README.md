@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <a href="https://ameer-hamza-rn.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=4F8CFF&center=true&vCenter=true&width=640&height=40&lines=Senior+React+Native+Engineer;I+build+fast%2C+reliable+iOS+%26+Android+apps;From+empty+repo+to+the+App+Store+in+weeks;Open+to+remote+roles+%26+freelance+projects" alt="Senior React Native Engineer · I build fast, reliable iOS & Android apps"></a>
+</p>
+
+<p align="center">
   <a href="https://ameer-hamza-rn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://ameer-hamza-rn.vercel.app/Ameer-Hamza-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-4f8cff?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"></a>
   <a href="https://www.linkedin.com/in/ameer-hamza-02a155214"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
