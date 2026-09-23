@@ -119,8 +119,8 @@ I help startups ship **fast, scalable iOS & Android apps**, from an empty repo t
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ameer-Hamza-Developer&show_icons=true&hide_border=true&bg_color=0a0a0b&title_color=4f8cff&icon_color=4f8cff&text_color=c9d1d9" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameer-Hamza-Developer&layout=compact&hide_border=true&bg_color=0a0a0b&title_color=4f8cff&text_color=c9d1d9" alt="Top languages">
+  <img src="https://streak-stats.demolab.com?user=Ameer-Hamza-Developer&hide_border=true&background=0a0a0b&ring=4f8cff&fire=4f8cff&currStrokeNum=f5f5f7&currStreakLabel=4f8cff&sideNums=f5f5f7&sideLabels=8e8e93&dates=8e8e93&stroke=2b2b30" alt="GitHub streak" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ameer-Hamza-Developer&theme=github_dark" alt="GitHub stats" width="49%">
 </p>
 
 ---
