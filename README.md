@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Ameer Hamza, Senior React Native Engineer" width="100%">
+  <img src="assets/banner.svg" alt="Ameer Hamza, Senior React Native Engineer" width="100%">
 </p>
 
 <p align="center">
