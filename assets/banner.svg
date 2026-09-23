@@ -10,10 +10,8 @@
       .k { fill: #4f8cff; } .v { fill: #f5f5f7; font-weight: 700; } .a { fill: #c9d1d9; } .s { fill: #9ecbff; } .p { fill: #6e7681; }
       .glow { animation: pulse 6s ease-in-out infinite; }
       @keyframes pulse { 0%, 100% { opacity: 0.75; } 50% { opacity: 1; } }
-      .fade { animation: rise 0.9s ease-out backwards; }
-      @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-      .line { animation: type 12s ease-out infinite backwards; }
-      @keyframes type { 0% { opacity: 0; transform: translateX(-10px); } 5% { opacity: 1; transform: translateX(0); } 82% { opacity: 1; } 88%, 100% { opacity: 0; } }
+      .line { animation: type 12s ease-out infinite; }
+      @keyframes type { 0% { opacity: 0; transform: translateX(-10px); } 4% { opacity: 1; transform: translateX(0); } 80% { opacity: 1; } 86%, 100% { opacity: 0; } }
       .cursor { animation: blink 1s steps(1) infinite; }
       @keyframes blink { 50% { opacity: 0; } }
       .dot { animation: ping 2s ease-out infinite; transform-origin: 1118px 69px; }
@@ -28,11 +26,11 @@
 
   <!-- Left: name and title -->
   <g class="sans">
-    <rect class="fade" x="64" y="88" width="40" height="3" fill="#4f8cff"/>
-    <text class="fade" x="64" y="124" font-size="14" font-weight="600" letter-spacing="2.4" fill="#4f8cff" style="animation-delay:.1s">SENIOR REACT NATIVE ENGINEER</text>
-    <text class="fade" x="62" y="188" font-size="58" font-weight="700" letter-spacing="-1.6" fill="#f5f5f7" style="animation-delay:.25s">Ameer Hamza</text>
-    <text class="fade" x="64" y="232" font-size="21" fill="#a1a1a8" style="animation-delay:.45s">I build <tspan fill="#f5f5f7" font-weight="600">fast, reliable iOS &amp; Android apps</tspan></text>
-    <text class="fade" x="64" y="262" font-size="21" fill="#a1a1a8" style="animation-delay:.55s">from empty repo to the App Store.</text>
+    <rect x="64" y="88" width="40" height="3" fill="#4f8cff"/>
+    <text x="64" y="124" font-size="14" font-weight="600" letter-spacing="2.4" fill="#4f8cff">SENIOR REACT NATIVE ENGINEER</text>
+    <text x="62" y="188" font-size="58" font-weight="700" letter-spacing="-1.6" fill="#f5f5f7">Ameer Hamza</text>
+    <text x="64" y="232" font-size="21" fill="#a1a1a8">I build <tspan fill="#f5f5f7" font-weight="600">fast, reliable iOS &amp; Android apps</tspan></text>
+    <text x="64" y="262" font-size="21" fill="#a1a1a8">from empty repo to the App Store.</text>
   </g>
 
   <!-- Right: code window -->
@@ -46,13 +44,13 @@
   <text class="mono" x="784" y="74" font-size="13" fill="#8e8e93">developer.ts</text>
 
   <g class="mono">
-    <text class="line" x="722" y="124" style="animation-delay:.6s"><tspan class="k">const</tspan> <tspan class="v">developer</tspan> <tspan class="p">= {</tspan></text>
-    <text class="line" x="740" y="148" style="animation-delay:1.0s"><tspan class="a">stack</tspan><tspan class="p">: [</tspan><tspan class="s">"React Native"</tspan><tspan class="p">, </tspan><tspan class="s">"TypeScript"</tspan><tspan class="p">, </tspan><tspan class="s">"Expo"</tspan><tspan class="p">],</tspan></text>
-    <text class="line" x="740" y="172" style="animation-delay:1.4s"><tspan class="a">platforms</tspan><tspan class="p">: [</tspan><tspan class="s">"iOS"</tspan><tspan class="p">, </tspan><tspan class="s">"Android"</tspan><tspan class="p">],</tspan></text>
-    <text class="line" x="740" y="196" style="animation-delay:1.8s"><tspan class="a">experience</tspan><tspan class="p">: </tspan><tspan class="s">"4+ years"</tspan><tspan class="p">,</tspan></text>
-    <text class="line" x="740" y="220" style="animation-delay:2.2s"><tspan class="a">appsShipped</tspan><tspan class="p">: </tspan><tspan class="k">5</tspan><tspan class="p">,</tspan></text>
-    <text class="line" x="740" y="244" style="animation-delay:2.6s"><tspan class="a">openToWork</tspan><tspan class="p">: </tspan><tspan class="k">true</tspan><tspan class="p">,</tspan></text>
-    <g class="line" style="animation-delay:3.0s">
+    <text class="line" x="722" y="124" style="animation-delay:-5.0s"><tspan class="k">const</tspan> <tspan class="v">developer</tspan> <tspan class="p">= {</tspan></text>
+    <text class="line" x="740" y="148" style="animation-delay:-4.6s"><tspan class="a">stack</tspan><tspan class="p">: [</tspan><tspan class="s">"React Native"</tspan><tspan class="p">, </tspan><tspan class="s">"TypeScript"</tspan><tspan class="p">, </tspan><tspan class="s">"Expo"</tspan><tspan class="p">],</tspan></text>
+    <text class="line" x="740" y="172" style="animation-delay:-4.2s"><tspan class="a">platforms</tspan><tspan class="p">: [</tspan><tspan class="s">"iOS"</tspan><tspan class="p">, </tspan><tspan class="s">"Android"</tspan><tspan class="p">],</tspan></text>
+    <text class="line" x="740" y="196" style="animation-delay:-3.8s"><tspan class="a">experience</tspan><tspan class="p">: </tspan><tspan class="s">"4+ years"</tspan><tspan class="p">,</tspan></text>
+    <text class="line" x="740" y="220" style="animation-delay:-3.4s"><tspan class="a">appsShipped</tspan><tspan class="p">: </tspan><tspan class="k">5</tspan><tspan class="p">,</tspan></text>
+    <text class="line" x="740" y="244" style="animation-delay:-3.0s"><tspan class="a">openToWork</tspan><tspan class="p">: </tspan><tspan class="k">true</tspan><tspan class="p">,</tspan></text>
+    <g class="line" style="animation-delay:-2.6s">
       <text x="722" y="268" class="p">};</text>
       <rect class="cursor" x="746" y="254" width="9" height="17" fill="#4f8cff"/>
     </g>
