@@ -10,6 +10,7 @@
   <a href="https://ameer-hamza-rn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://ameer-hamza-rn.vercel.app/Ameer-Hamza-CV.pdf"><img src="https://img.shields.io/badge/Download_CV-4f8cff?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"></a>
   <a href="https://www.linkedin.com/in/ameer-hamza-02a155214"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.upwork.com/freelancers/~010609df4bf9997547"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
   <a href="mailto:ameer.hamza0070@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -122,20 +123,12 @@ I help startups ship **fast, scalable iOS & Android apps**, from an empty repo t
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ameer-Hamza-Developer&hide_border=true&background=0a0a0b&ring=4f8cff&fire=4f8cff&currStrokeNum=f5f5f7&currStreakLabel=4f8cff&sideNums=f5f5f7&sideLabels=8e8e93&dates=8e8e93&stroke=2b2b30" alt="GitHub streak" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ameer-Hamza-Developer&theme=github_dark" alt="GitHub stats" width="49%">
-</p>
-
----
 
 ## 📫 Let's work together
 
 Open to **remote roles** and **freelance projects** worldwide. Have an app in mind? I usually reply within a day.
 
-📧 [ameer.hamza0070@gmail.com](mailto:ameer.hamza0070@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ameer-hamza-02a155214) &nbsp;·&nbsp; 🌐 [ameer-hamza-rn.vercel.app](https://ameer-hamza-rn.vercel.app)
+📧 [ameer.hamza0070@gmail.com](mailto:ameer.hamza0070@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/ameer-hamza-02a155214) &nbsp;·&nbsp; 🟢 [Upwork](https://www.upwork.com/freelancers/~010609df4bf9997547) &nbsp;·&nbsp; 🌐 [ameer-hamza-rn.vercel.app](https://ameer-hamza-rn.vercel.app)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0b,100:4f8cff&height=140&section=footer&animation=twinkling&text=Thanks%20for%20visiting&fontSize=22&fontColor=f5f5f7&fontAlignY=72" alt="Thanks for visiting" width="100%">
