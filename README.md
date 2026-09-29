@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <b>4+ years</b> &nbsp;·&nbsp; <b>20+ projects</b> &nbsp;·&nbsp; <b>5 live apps</b>, 4 built from the first commit &nbsp;·&nbsp; 📍 Lahore, Pakistan &nbsp;·&nbsp; 🟢 Open to remote &amp; freelance
+  <b>4+ years</b> &nbsp;·&nbsp; <b>20+ projects</b> &nbsp;·&nbsp; <b>9 apps shipped</b>, 8 built from the first commit &nbsp;·&nbsp; 📍 Lahore, Pakistan &nbsp;·&nbsp; 🟢 Open to remote &amp; freelance
 </p>
 
 ---
@@ -75,6 +75,38 @@ I help startups ship **fast, scalable iOS & Android apps**, from an empty repo t
       <b>GeoFace</b> &nbsp;<sub><code>Joined mid-project</code></sub><br>
       Patented proof-of-presence app: a face scan, GPS location and timestamp sealed into a verifiable certificate, saved to Apple Wallet.<br>
       <sub>React Native · Redux · Google Maps · Apple Wallet · Express · MongoDB</sub> &nbsp;·&nbsp; <a href="https://geoface.com.au/">Website</a> · <a href="https://apps.apple.com/pk/app/geoface/id1602781941">App Store</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/apna-pos.jpg" width="56" height="56" alt="Apna POS"></td>
+    <td>
+      <b>Apna POS</b> &nbsp;<sub><code>Built from scratch</code></sub><br>
+      Offline point-of-sale and khata app for small shops: per-customer rates, cash and udhar in one entry, and a running ledger that works with no signal.<br>
+      <sub>React Native · Expo · TypeScript · Expo Router · Zustand · SheetJS</sub> &nbsp;·&nbsp; <a href="https://apna-pos-app.vercel.app">Website</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/gallery-locker.png" width="56" height="56" alt="Gallery Locker"></td>
+    <td>
+      <b>Gallery Locker</b> &nbsp;<sub><code>Built from scratch</code></sub><br>
+      Private photo vault for Android: hidden files are encrypted and pulled out of the device gallery, behind a 4-digit PIN with optional fingerprint unlock.<br>
+      <sub>React Native · CameraRoll · AES encryption · Biometrics · AsyncStorage</sub> &nbsp;·&nbsp; <a href="https://gallery-locker.vercel.app">Website</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/vitev.png" width="56" height="56" alt="Vitev"></td>
+    <td>
+      <b>Vitev: Water Reminder</b> &nbsp;<sub><code>Built from scratch</code></sub><br>
+      Hydration tracker where the screen is the glass: water rises behind the percentage as you drink. Seven languages, light and dark themes, no backend at all.<br>
+      <sub>React Native · Redux Toolkit · redux-persist · react-native-svg · i18next</sub> &nbsp;·&nbsp; <a href="https://vitev-flax.vercel.app">Website</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/chatly.png" width="56" height="56" alt="Chatly"></td>
+    <td>
+      <b>Chatly: AI Assistant</b> &nbsp;<sub><code>Built from scratch</code></sub><br>
+      Gemini chat app with token-by-token streaming, a hands-free voice mode that listens and answers out loud, and image understanding from camera or gallery.<br>
+      <sub>React Native · Expo · Gemini API · SSE Streaming · Speech Recognition · TTS</sub>
     </td>
   </tr>
 </table>
